@@ -11,5 +11,8 @@ license: MIT
 
 dependencies:
   selenium:
-    github: amberframework/selenium-webdriver-crystal
-    version: ~> 0.5.0
+    github: xzones2014/selenium-webdriver-crystal
+    version: 0.5.1
+  # selenium:
+  #   github: amberframework/selenium-webdriver-crystal
+  #   version: ~> 0.5.0
